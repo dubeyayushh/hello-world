@@ -1,0 +1,36 @@
+[33mcommit e876fd2d1ce567e8886eed15367a47f989012b3c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 3337d4b 3b5daf2
+Author: Ayush <dubeyayush810@gmail.com>
+Date:   Wed Jul 31 12:01:37 2024 +0530
+
+    merged with hello-world-images after fixing conflicts
+
+[33mcommit 3b5daf27c4a070ef92b70c4b27fdf318f736db06[m
+Author: Ayush <dubeyayush810@gmail.com>
+Date:   Wed Jul 31 11:59:09 2024 +0530
+
+    added new image
+
+[33mcommit 3337d4b1020a2cebbb742ef3d74a27019e8aa978[m
+Author: Ayush <dubeyayush810@gmail.com>
+Date:   Wed Jul 31 11:53:30 2024 +0530
+
+    updated index.html with emergency fix
+
+[33mcommit 17e9fec94ca986fc5b9ec020fff3598044d7c17c[m
+Author: Ayush <dubeyayush810@gmail.com>
+Date:   Wed Jul 31 11:49:55 2024 +0530
+
+    Added image to Hello World
+
+[33mcommit cd586179465ceb23ed67a8487408cb2a9880409c[m
+Author: Ayush <dubeyayush810@gmail.com>
+Date:   Wed Jul 31 11:42:56 2024 +0530
+
+    Updated index.html with a new line
+
+[33mcommit 6008e87cfe834944ba325afbace729d7aab62bd8[m
+Author: Ayush <dubeyayush810@gmail.com>
+Date:   Wed Jul 31 11:40:42 2024 +0530
+
+    First release of Hello World!
